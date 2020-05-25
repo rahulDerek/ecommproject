@@ -1,5 +1,4 @@
 package com.ld.qa.testcases;
-
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -8,7 +7,10 @@ import org.testng.annotations.Test;
 import com.ld.qa.base.TestBase;
 import com.ld.qa.pages.AdmissionsPage;
 import com.ld.qa.pages.HomePage;
-
+/*
+ * 
+ * Author Rahul Derek
+ */
 public class AdmissionsPageTest extends TestBase {
 	
 	AdmissionsPage admissionsPage;
